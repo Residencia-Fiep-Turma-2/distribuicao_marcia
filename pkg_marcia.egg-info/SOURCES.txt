@@ -1,0 +1,6 @@
+README.md
+setup.py
+pkg_marcia.egg-info/PKG-INFO
+pkg_marcia.egg-info/SOURCES.txt
+pkg_marcia.egg-info/dependency_links.txt
+pkg_marcia.egg-info/top_level.txt
